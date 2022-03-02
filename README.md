@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehmet Ali Koyuncuoglu
+- 👋 Hi, I’m Mehmet Ali Koyuncuoglu. I'm from Turkey, Istanbul. I've been living San Francisco CA for 11 years. 
 - 👀 I’m interested in web developer with MongoDB, Express.js, React, Node.js because I have a passion about building the web applications. 
 - 🌱 I’m currently learning Ethereum Solidity Blockchain language because I'm going to be able combine it with MERN.
 - 💞️ I’m looking to work as an entry level web developer to improve my skills to be both senior level blockchain and MERN Stack Developer.
