@@ -88,15 +88,12 @@ I am an experienced software engineer with broad experience in backend and full-
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyuncuoglum95&show_icons=true&locale=en&layout=compact" alt="koyuncuoglum95" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=koyuncuoglum95&show_icons=true&count_private=true&hide_border=true" align="left" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koyuncuoglum95&show_icons=true&locale=en" alt="koyuncuoglum95" /></p>
 
-</td><td valign="top" width="80%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koyuncuoglum95&" alt="koyuncuoglum95" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyuncuoglum95&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
 
 <br/>  
 
