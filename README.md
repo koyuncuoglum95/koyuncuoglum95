@@ -113,9 +113,3 @@ I am an experienced software engineer with broad experience in backend and full-
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
