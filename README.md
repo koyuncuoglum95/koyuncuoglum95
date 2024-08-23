@@ -39,7 +39,7 @@ I am an experienced software engineer with broad experience in backend and full-
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media0.giphy.com/media/108bNXja5KRrkA/200w.gif?cid=6c09b9529ur58agf7qr4yz1uu8t3kyh30pbs82x775w34nb3&ep=v1_gifs_search&rid=200w.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://media2.giphy.com/media/lIeUAWuLK7cv6/giphy.gif?cid=a267dfa3x34axw570706u7ds56ergi0pzszgf56375v9jq4p&rid=giphy.gif&ct=s" align="center" style="width: 100%" />
 </div>  
 
 
