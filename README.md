@@ -18,22 +18,22 @@
 
 
 ### Glad to see you here!  
-I am an experienced software engineer with broad experience in backend and full-stack development, and I am now pursuing a career in cybersecurity. Equipped with a wealth of expertise in constructing and improving scalable online services utilizing Python, Django, React, and Docker, I have effectively spearheaded initiatives that significantly boost application performance and user experience. My technical knowledge includes proficiency in programming languages such as HTML, CSS, JavaScript, Python, and Solidity, as well as frameworks such as Django, React, Node.js, Web3.js, and Truffle Suite, as well as databases such as MongoDB, PostgreSQL, and Google Firebase. I possess expertise in utilizing many developer technologies, including Docker, Postman, Eclipse, Visual Studio, Ganache, and Git. I am currently directing my expertise towards cybersecurity, namely in the areas of network security, cloud security, and secure coding methodologies. My unwavering dedication lies in utilizing my extensive development expertise to make valuable contributions to enhancing the security and resilience of the technology environment.  
-  
-
+I am an experienced software engineer who builds web apps and AI apps such as LLM models and MCP
+servers. I generally use programming languages like Python, C#, and JavaScript to solve technical challenges and
+simplify development processes to bring valid, accommodating software.
 <br/>  
 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [AAK Backend](https://github.com/AAK-Tele-Science/BackEnd-Dev/tree/main)  
+- 🔭 I’m currently working on AI Engineer such building my own LLMs models. 
   
 
-- 🌱 I’m currently learning Cybersecurity   
+- 🌱 I’m currently learning Machine Learning  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to both software and AI machine learning development 
 
 
 </td><td valign="top" width="50%">
